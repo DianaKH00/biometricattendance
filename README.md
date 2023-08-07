@@ -4,7 +4,7 @@ permalink: /index.php
 # Biometric Attendance
 - HTML5
 - CSS3
-- PHP7
+- PHP
 - JavaScript
 - MySQL
 
